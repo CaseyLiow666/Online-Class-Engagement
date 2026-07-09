@@ -58,7 +58,7 @@ The system aims to improve student participation and engagement during online le
 
 ## 📷 Screenshots
 
-You can add screenshots of the system here.
+Inside the screenshots folder
 
 Examples:
 - Login Page
